@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1677248930 source:d:\workspace\uet _ dh cong nghe top 1 viet nam\lap_trinh_nang_cao ( 2023_sdl )\baitaplon\bigproject\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+
+1678169132 source:d:\workspace\uet _ dh cong nghe top 1 viet nam\lap_trinh_nang_cao ( 2023_sdl )\tuanconnamdinh\bigproject\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+
+1678169132 source:c:\users\admin\bigproject\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+
